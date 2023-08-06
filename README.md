@@ -7,13 +7,11 @@
 
 ## 🧐 About Me
 
-- 🔭 I’m currently working as a Full Stack Developer.
-- 🌱 I’m currently learning AWS.
-- 👯 I’m looking to collaborate on Microservices projects and Optimization techniques.
-- 💬 Ask me about Angular, React, Typescript, NestJs, NextJs, ExpressJs, MongoDB, PostgreSQL.
-- 📫 How to reach me: [Your Contact Information].
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: [Fun Fact About Yourself].
+- 🔭 I’m currently working as a Full Stack Developer
+- 🌱 I’m currently learning AWS
+- 👯 I’m looking to collaborate on Microservices projects and Optimization techniques
+- 💬 Ask me about Angular, React, Typescript, NestJs, NextJs, ExpressJs, MongoDB, PostgreSQL
+- 😄 Pronouns: He/Him
 
 ## 📚 My Skills
 
